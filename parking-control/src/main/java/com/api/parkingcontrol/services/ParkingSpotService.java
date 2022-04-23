@@ -45,5 +45,4 @@ public class ParkingSpotService {
     public void delete(ParkingSpotModel parkingSpotModel) {
         parkingSpotRepository.delete(parkingSpotModel);
     }
-
 }
