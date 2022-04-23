@@ -9,7 +9,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Aplicação de Controle de estacionamento de prédio residencial apresentada por:
+  Aplicação de Controle de estacionamento apresentada por:
 </p>
 
 [Michele Brito](https://www.youtube.com/watch?v=LXRU-Z36GEU/)
